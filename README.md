@@ -24,13 +24,13 @@
 ### Installation
 
 1. 📥 Clone this repository:
-<p>git clone https://github.com/pablogzalez/OpenAI-API-Java-Request.git</p>
+<p>   git clone https://github.com/pablogzalez/OpenAI-API-Java-Request.git</p>
 
 2. 📂 Navigate to the project directory:
-<p>cd OpenAI-API-Java-Request</p>
+<p>   cd OpenAI-API-Java-Request</p>
 
 3. 🔓 Open the OpenAIRequesterTest class and insert your OpenAI API key where indicated.
-<p>git clone https://github.com/pablogzalez/OpenAI-API-Java-Request.git</p>
+<p>   git clone https://github.com/pablogzalez/OpenAI-API-Java-Request.git</p>
 
 4. 🖥️ Compile and run the tests.
 
